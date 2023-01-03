@@ -1,1 +1,1 @@
-🍰   java-kiosk-with-thread ☕
+🍰java-kiosk-with-thread ☕
